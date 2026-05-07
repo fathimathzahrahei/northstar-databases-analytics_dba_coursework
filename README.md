@@ -35,7 +35,7 @@ propose a redesigned data environment.
 |-----------------------------|------------------------------------------------------------------|----------------------------------|
 |     `01_sql_in_r.ipynb`     | SQL queries within R - operational filtering, joins, aggregation |      R, RSQLite, sqldf           |
 |     `02_r_analytics.ipynb`  | Statistical analysis and visualisation                           |      R, dplyr, ggplot2           |
-| `03_python_processing.ipynb`| Cleaning pipeline, feature engineering, deeper analytics         |Python, pandas, numpy,matplotlib, | |                             |                                                                  |            seaborn               | 
+| `03_python_processing.ipynb`| Cleaning pipeline, feature engineering, deeper analytics         |Python, pandas, numpy,matplotlib,          seaborn               | 
 |   `04_mongodb_design.ipynb` | NoSQL schema design and CRUD operations on MongoDB Atlas         |        Python, PyMongo           | 
 |`05_query_optimisation.ipynb`| Indexing strategy and explain-plan analysis                      |        Python, PyMongo           |
 
