@@ -34,7 +34,6 @@ propose a redesigned data environment.
 |----README.md
 
 # Notebooks
-|-----------------------------|------------------------------------------------------------------|----------------------------------|
 |          Notebook           |                             Purpose                              |             Tools                |
 |-----------------------------|------------------------------------------------------------------|----------------------------------|
 |     `01_sql_in_r.ipynb`     | SQL queries within R - operational filtering, joins, aggregation |      R, RSQLite, sqldf           |
@@ -42,7 +41,7 @@ propose a redesigned data environment.
 | `03_python_processing.ipynb`| Cleaning pipeline, feature engineering, deeper analytics         |Python, pandas, numpy,matplotlib, | |                             |                                                                  |            seaborn               | 
 |   `04_mongodb_design.ipynb` | NoSQL schema design and CRUD operations on MongoDB Atlas         |        Python, PyMongo           | 
 |`05_query_optimisation.ipynb`| Indexing strategy and explain-plan analysis                      |        Python, PyMongo           |
-|-----------------------------|------------------------------------------------------------------|----------------------------------|
+
 
 # Dataset
 The NorthStar dataset comprises nine CSV files covering hubs, customers,
