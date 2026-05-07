@@ -1,7 +1,4 @@
-# northstar-databases-analytics_dba_coursework
-Databases and Analytics coursework: NorthStar Urban Mobility case study
-
-# NorthStar Urban Mobility And Logistics Datbases and Analytics Coursework
+# NorthStar Urban Mobility And Logistics: Databases and Analytics Coursework
 Module: Databases and Analytics (CP60056E)
 Module Tutor: Dr Shaheen
 Name: Fathimath Zahra
